@@ -1,16 +1,16 @@
 #Programa sencillos con chomp
 
 
-print "¿Cúal es tu nombre?"
+print "¿Cúal es tu nombre? "
 firt_name = gets.chomp.capitalize!
 
-print "¿Cúal es tu primer apellido"
+print "¿Cúal es tu primer apellido? "
 last_name = gets.chomp.capitalize!
 
-print "¿De qué ciudad eres?"
+print "¿De qué ciudad eres? "
 city = gets.chomp.capitalize!
 
-print "¿De qué estado eres?"
+print "¿De qué estado eres? "
 state = gets.chomp.upcase!
 
 
